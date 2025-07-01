@@ -5,7 +5,6 @@ A React-based online library app created for an assignment.
 
 # **🛠️ Installation & Running Instructions**
 
-
 # 1. Clone the repository
 
 git clone https://github.com/GitAvinash003/online-library-system.git
